@@ -1,0 +1,30 @@
+# Rime wubi86 custom setting
+# encoding: utf-8
+# author: boboIqiqi
+
+patch:
+  "translator/enable_sentence": false #关闭连打
+  "speller/max_code_length": 4 #
+  "speller/auto_select": true #无重码时自动上屏
+  "translator/enable_user_dict": false   #字频排序及自动造词
+
+#取消单字字频调整而保留造词，应该是可以做到的。可以试试下面方法，我没测试。。。
+#-----------------------
+#主方案码表为五笔单字码表
+#initial_quality: 1 # ※ 设定此翻译器出字优先级
+#enable_sentence: false # ※ 是否开启连打
+#enable_completion: true # ※ 是否开启逐键提示
+#enable_encoder: false #关闭开启自动造词
+#encode_commit_history: false
+#enable_charset_filter: false
+#enable_user_dict: false
+#
+#
+#＠的副方案table_translator码表为五笔字与词的码表。
+#initial_quality: 0 # ※ 设定此翻译器出字优先级
+#enable_sentence: false # ※ 是否开启连打,自动造句
+#enable_completion: true # ※ 是否开启逐键提示
+#enable_encoder: true #开启自动造词〔仅table_translator有效〕
+#encode_commit_history: true #对已上屛词自动成词〔仅table_translator有效〕
+#enable_charset_filter: true
+#enable_user_dict: true # ※ 开启用户词典（记录动态字词频，用户词及习惯等，false关闭）

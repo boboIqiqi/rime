@@ -1,0 +1,35 @@
+# Rime user dictionary
+#@/db_name	wubi86_double_key.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1.2
+#@/tick	40
+#@/user_id	0bb3099a-66e4-4762-83f5-648368fe1502
+a 	要	c=2 d=1.88995 t=40
+anq 	黄	c=1 d=0.99005 t=40
+b tc 	了么	c=2 d=1.74089 t=40
+dmeg 	而且	c=2 d=1.72616 t=40
+j 	是	c=1 d=0.927743 t=40
+l 	国	c=1 d=0.923116 t=40
+ldo 	黑	c=1 d=1 t=40
+n 	同	c=1 d=0.918512 t=40
+o 	为	c=2 d=1.82376 t=40
+o 	这	c=1 d=0.88692 t=40
+r 	的	c=1 d=0.856415 t=40
+vftc 	那么	c=2 d=1.70046 t=40
+vjja 	如果	c=1 d=0.97531 t=40
+vkjs 	如果	c=4 d=3.4444 t=40
+x 	以	c=6 d=5.73639 t=40
+xtlj 	编辑	c=1 d=0.980199 t=40
+yijg 	就是	c=3 d=2.55688 t=40
+yp suf 	这栏	c=1 d=0.852144 t=40
+ypsu 	这样	c=2 d=1.71755 t=40
+encdeto 	而且这	c=0 d=0.088692 t=40
+encjgtl 	是为	c=0 d=0.0932394 t=40
+enclgjg 	国是	c=0 d=0.0927743 t=40
+encljtl 	国是为	c=0 d=0.0932394 t=40
+enctade 	这样而且	c=0 d=0.0882497 t=40
+enctadt 	这样而且这	c=0 d=0.088692 t=40
+enctjta 	就是这样	c=0 d=0.0878095 t=40
+encvjvt 	如果那么	c=0 d=0.0869358 t=40
+encvjxl 	如果编辑	c=0 d=0.0980199 t=40
+encvttj 	那么就是	c=0 d=0.0873716 t=40

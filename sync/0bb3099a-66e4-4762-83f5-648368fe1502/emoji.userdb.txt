@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	emoji.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1.2
+#@/tick	11
+#@/user_id	0bb3099a-66e4-4762-83f5-648368fe1502
+abckward,ui;jianyou 	⏩	c=3 d=2.87283 t=11
+abckward,ui;jianyou bu,hanzi;zi`kanji 	⏩🈨	c=1 d=0.970446 t=11
+bu,hanzi;zi`kanji 	🈨	c=1 d=0.960789 t=11
+tomato,vagetable;shui'guo`fruit 	🍅	c=2 d=1.97531 t=11
+vcr;gong'ju`tool 	📹	c=2 d=1.97521 t=11
+video,cassette;gong'ju`tool 	📼	c=2 d=1.97516 t=11
