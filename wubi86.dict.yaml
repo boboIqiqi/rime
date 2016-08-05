@@ -41,6 +41,8 @@ encoder:
 import_tables:
   - wubi86_one_character
   - wubi86_two_characters
+  - wubi86_photoshop
+  - wubi86_keyboard
 ...
 
 复用	tjet	1000000000

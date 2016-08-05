@@ -1,0 +1,30 @@
+# Rime dictionary
+# vim: st=2 noet 
+# :set list
+# encoding: utf-8
+#
+
+---
+name: wubi86_photoshop
+version: "0.6"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+...
+
+蒙版	apth
+分辨率
+
