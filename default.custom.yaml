@@ -18,7 +18,6 @@ patch:
     half_shape: {"!": {commit: "！"}, "\"": {pair: ["“", "”"]}, "#": "#", "&": "&", "'": {pair: ["‘", "’"]}, "(": "（", ")": "）", "+": "+", ",": {commit: "，"}, "-": "-", .: {commit: "。"}, ":": {commit: "："}, ";": {commit: "；"}, "=": "=", "?": {commit: "？"}, "@": "@", "\\": {commit: "、"}, "^": {commit: "……"}, _: "——", "`": "`"}
   schema_list:
     - {schema: wubi86}
-    - {schema: wubi86_double_key}
 
   "key_binder/bindings":
     - {accept: "Control+p", send: Up, when: composing}
@@ -29,7 +28,7 @@ patch:
     - {accept: "Control+e", send: End, when: composing}
     - {accept: "Control+d", send: Delete, when: composing}
     - {accept: "Control+k", send: "Shift+Delete", when: composing}
-    - {accept: "Control+j", send: Escape, when: composing}
+    - {accept: "Control+j", send: 1, when: composing}
     - {accept: "Control+h", send: BackSpace, when: composing}
     - {accept: "Control+g", send: Escape, when: composing}
     - {accept: "Control+bracketleft", send: Escape, when: composing}

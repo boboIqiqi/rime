@@ -8,8 +8,8 @@ ascii_composer:
     Control_R: inline_ascii
     Eisu_toggle: clear
     Shift_R: commit_code
-config_version: 0.34.custom.744695006
-customization: 744695006
+config_version: 0.34.custom.3840026080
+customization: 3840026080
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}
@@ -20,7 +20,7 @@ key_binder:
     - {accept: "Control+e", send: End, when: composing}
     - {accept: "Control+d", send: Delete, when: composing}
     - {accept: "Control+k", send: "Shift+Delete", when: composing}
-    - {accept: "Control+j", send: Escape, when: composing}
+    - {accept: "Control+j", send: 1, when: composing}
     - {accept: "Control+h", send: BackSpace, when: composing}
     - {accept: "Control+g", send: Escape, when: composing}
     - {accept: "Control+bracketleft", send: Escape, when: composing}
