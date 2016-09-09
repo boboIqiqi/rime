@@ -1,4 +1,4 @@
-customization: 1852325201
+customization: 3877978585
 engine:
   processors:
     - ascii_composer
@@ -48,9 +48,10 @@ schema:
     
   name: "五笔86"
   schema_id: wubi86
-  version: 0.20.custom.1852325201
+  version: 0.20.custom.3877978585
 speller:
   auto_select: true
+  auto_select_unique_candidate: true
   delimiter: " ;'"
   max_code_length: 4
 switches:

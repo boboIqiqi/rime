@@ -1,5 +1,5 @@
 # Rime dictionary: wubi86
-# vim: st=2 noet 
+# vim: tabstop=2 softtabstop=2 shiftwidth=2 noexpandtab 
 # :set list
 # encoding: utf-8
 #
@@ -43,6 +43,11 @@ import_tables:
   - wubi86_two_characters
   - wubi86_photoshop
   - wubi86_keyboard
+  - wubi86_private_person_names
+  - wubi86_website_names
+  - wubi86_private_trademark_names
+  - wubi86_calligraphy
+  - wubi86_computer
 ...
 
 复用	tjet	1000000000

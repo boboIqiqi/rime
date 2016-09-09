@@ -5,7 +5,7 @@
 #
 
 ---
-name: wubi86_photoshop
+name: wubi86_private_person_names
 version: "0.6"
 sort: by_weight
 columns:
@@ -25,10 +25,24 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-蒙版	apth
-分辨率
-套索	ddfp	200000000
-photoshop	ps	200000000
-PS	ps	200000000
-photoshop	photo	200000000
+# 家人
+二蛋		15300000000
+琪琪宝贝		15300000000
+月娃		15300000000
+琪琪		15300000000
+
+# 单位同事
+
+陈哥
+姚哥
+韩琳
+孙丽伟
+伟哥
+李翰
+翰哥
+杜宏伟
+梁广颖
+蒋爱民
+王辉
+辉哥
 

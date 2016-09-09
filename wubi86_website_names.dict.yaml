@@ -5,7 +5,7 @@
 #
 
 ---
-name: wubi86_photoshop
+name: wubi86_website_names
 version: "0.6"
 sort: by_weight
 columns:
@@ -25,10 +25,6 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-蒙版	apth
-分辨率
-套索	ddfp	200000000
-photoshop	ps	200000000
-PS	ps	200000000
-photoshop	photo	200000000
-
+网站	mquh	1530000000
+知乎		1530000000
+京东		1530000000

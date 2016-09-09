@@ -5,7 +5,7 @@
 #
 
 ---
-name: wubi86_photoshop
+name: wubi86_computer
 version: "0.6"
 sort: by_weight
 columns:
@@ -25,10 +25,10 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-蒙版	apth
-分辨率
-套索	ddfp	200000000
-photoshop	ps	200000000
-PS	ps	200000000
-photoshop	photo	200000000
-
+操作系统		200000000
+USB	usb	200000000
+计算机	ytsm	200000000
+安卓	pvhj	200000000
+CPU	cpu	200000000
+Vim	vim	200000000
+[TOC]	toc	

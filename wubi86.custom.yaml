@@ -6,6 +6,7 @@ patch:
   "translator/enable_sentence": false #关闭连打
   "speller/max_code_length": 4 #
   "speller/auto_select": true #无重码时自动上屏
+  "speller/auto_select_unique_candidate": true #候选字唯一时自动上屏
   "translator/enable_user_dict": false   #字频排序及自动造词
 
 #取消单字字频调整而保留造词，应该是可以做到的。可以试试下面方法，我没测试。。。

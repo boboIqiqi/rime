@@ -5,7 +5,7 @@
 #
 
 ---
-name: wubi86_photoshop
+name: wubi86_calligraphy
 version: "0.6"
 sort: by_weight
 columns:
@@ -25,10 +25,12 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-蒙版	apth
-分辨率
-套索	ddfp	200000000
-photoshop	ps	200000000
-PS	ps	200000000
-photoshop	photo	200000000
+# 楷书四大家
+頫	iqdm	2000000
+赵孟頫	fbiq	
 
+
+#以下是钢笔相关的名词
+Penliken	penl	2000000
+百利金	dtqq	20000000
+凌美		20000000

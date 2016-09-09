@@ -6,4 +6,13 @@ patch:
     ascii_mode: true
   "app_options/explorer.exe":
     ascii_mode: true
-
+  "app_options/connectionassistant.exe":
+    ascii_mode: true
+  "app_options/qtcreator.exe":
+    ascii_mode: true
+  "app_options/taskmgr.exe":
+    ascii_mode: true
+  "app_options/SDTKeyTool.exe":
+    ascii_mode: true
+  "app_options/Lingoes.exe":
+    ascii_mode: true
